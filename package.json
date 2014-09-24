@@ -1,0 +1,19 @@
+{
+  "name": "pipe",
+  "version": "1.0.0",
+  "description": "Shared gulp config",
+  "license": "MIT",
+  "repository": "overblog/pipe",
+  "author": "Overblog",
+  "dependencies": {
+    "event-stream": "^3.1.7",
+    "gulp-concat": "^2.4.1",
+    "gulp-rework": "^1.0.2",
+    "lodash": "^2.4.1",
+    "myth": "^1.2.0",
+    "rework-ie-limits": "^0.1.1",
+    "rework-inherit": "^0.2.3",
+    "rework-npm": "^1.0.0",
+    "rework-visit": "^1.0.0"
+  }
+}
